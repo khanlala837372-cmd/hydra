@@ -33,7 +33,7 @@ $ python my_app.py +db.driver=mysql +db.user=omry +db.password=secret
 db:
   driver: mysql
   user: omry
-  password: secret
+  password:ecret
 ```
 
 See [Hydra's command line flags](advanced/hydra-command-line-flags.md) and
